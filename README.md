@@ -1,0 +1,1 @@
+Tests the github connector
